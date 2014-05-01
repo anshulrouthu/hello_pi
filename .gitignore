@@ -1,0 +1,5 @@
+*.o
+*~
+rpi-toolchain
+rpi-staging
+rpi-build
